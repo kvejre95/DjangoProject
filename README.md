@@ -1,2 +1,2 @@
 # DjangoProject
-Self Learning django Project
+Self Learning django Auth Project
